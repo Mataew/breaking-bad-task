@@ -1,0 +1,10 @@
+*{
+  box-sizing: border-box;
+}
+#root{
+  width: 750px;
+  margin: auto;
+}
+h1{
+  text-align: center;
+}
