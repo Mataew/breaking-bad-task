@@ -8,7 +8,7 @@ const App = () => {
 
   const episodes = useSelector(state => state.episodes)
 
-    console.log('daunihc')
+    console.log('daunihasdasdasd')
 
   return (
     <div>
