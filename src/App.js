@@ -8,6 +8,8 @@ const App = () => {
 
   const episodes = useSelector(state => state.episodes)
 
+    console.log('daunihc')
+
   return (
     <div>
       <h1>Список эпизодов Breaking Bad</h1>
